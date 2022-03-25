@@ -1,0 +1,23 @@
+@charset "UTF8";
+@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+
+body {
+    background-color: rgb(164, 224, 104);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: rgb(57, 82, 32);
+}
+
+h1#principal {
+    text-align: center;
+    background-color: rgb(52, 95, 10);
+    color: cornsilk;
+}
+h2 {
+    font-family: 'Chango', cursive;
+    color: rgb(47, 88, 5);
+}
+p {
+    font-family: 'Chango', cursive;
+}
